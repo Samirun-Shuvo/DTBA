@@ -1,0 +1,36 @@
+[
+    {
+      "customer_country": "Bangladesh",
+      "customer_name": "Mr. Abul",
+      "customer_id": 5248678,
+      "file_no": "52A1C4",
+      "booking_money": 500000,
+      "downpayment_money": 500000,
+      "installment_amount": 500000,
+      "land_piling_money_1": 500000,
+      "land_piling_money_2": 500000,
+      "building_piling_amount": 500000,
+      "first_roof_casting_amount": 500000,
+      "sixth_roof_casting_amount": 500000,
+      "final_work_amount": 500000,
+      "car_parking": 500000,
+      "price_upgradation": 500000
+    },
+    {
+      "customer_country": "Bangladesh",
+      "customer_name": "Mr. Abul",
+      "customer_id": 5248678,
+      "file_no": "52A1C4",
+      "booking_money": 500000,
+      "downpayment_money": 500000,
+      "installment_amount": 500000,
+      "land_piling_money_1": 500000,
+      "land_piling_money_2": 500000,
+      "building_piling_amount": 500000,
+      "first_roof_casting_amount": 500000,
+      "sixth_roof_casting_amount": 500000,
+      "final_work_amount": 500000,
+      "car_parking": 500000,
+      "price_upgradation": 500000
+    }
+  ]

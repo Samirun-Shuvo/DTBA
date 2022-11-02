@@ -1,0 +1,38 @@
+[
+    {
+      "customer_booking_date":"2022-05-21",
+      "customer_country":"Bangladesh",
+      "customer_name":"Mr. Abul",
+      "customer_id":5248678,
+      "customer_address":"111/C Moghbazar, Dhaka 1217",
+      "customer_mobile_no":"01756324158",
+      "building_no":"G+15",
+      "file_no":"52A1C4",
+      "flat_size":1091,
+      "status":true
+    },
+    {
+      "customer_booking_date":"2022-06-01",
+      "customer_country":"India",
+      "customer_name":"Jolil",
+      "customer_id":5248660,
+      "customer_address":"111/C Dhanmondi, Dhaka 1205",
+      "customer_mobile_no":"01756325246",
+      "building_no":"B+05",
+      "file_no":"52A1K4",
+      "flat_size":1091,
+      "status":true
+    },
+    {
+      "customer_booking_date":"2022-07-25",
+      "customer_country":"Bangladesh",
+      "customer_name":"Samirun Shuvo",
+      "customer_id":5248679,
+      "customer_address":"12/A Kolabagan, Dhaka 1205",
+      "customer_mobile_no":"01676667145",
+      "building_no":"A+12",
+      "file_no":"12A1D4",
+      "flat_size":1700,
+      "status":false
+    }
+  ]

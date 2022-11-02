@@ -1,0 +1,47 @@
+[
+    {
+      "customer_country": "Bangladesh",
+      "customer_name": "Mr. Abul",
+      "customer_id": 5248678,
+      "building_no": "G+15",
+      "file_no": "52A1C4",
+      "flat_size": 1091,
+      "flat_price": 500000,
+      "utillity_charge": 500000,
+      "car_parking_price": 50000,
+      "additional_work_cost": 50000,
+      "total_amount": 500000,
+      "number_of_installments": 15,
+      "status": true
+    },
+    {
+      "customer_country": "Bangladesh",
+      "customer_name": "Mr. Bablu",
+      "customer_id": 5248254,
+      "building_no": "B+15",
+      "file_no": "5241C4",
+      "flat_size": 1791,
+      "flat_price": 500000,
+      "utillity_charge": 500000,
+      "car_parking_price": 50000,
+      "additional_work_cost": 50000,
+      "total_amount": 500000,
+      "number_of_installments": 12,
+      "status": false
+    },
+    {
+      "customer_country": "Bangladesh",
+      "customer_name": "Mr. Kalachan",
+      "customer_id": 5248670,
+      "building_no": "G+10",
+      "file_no": "52A1C1",
+      "flat_size": 1291,
+      "flat_price": 500000,
+      "utillity_charge": 500000,
+      "car_parking_price": 50000,
+      "additional_work_cost": 50000,
+      "total_amount": 500000,
+      "number_of_installments": 12,
+      "status": true
+    }
+  ]

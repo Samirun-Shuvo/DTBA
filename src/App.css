@@ -1,0 +1,20 @@
+.whiteBackground{
+  background: white;
+  margin: 20px;
+  padding-bottom: 1px;
+  border-radius: 5px;
+}
+.table tr th{
+  color:#00CA08;
+  font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+}
+.main-footer {
+  background: #fff;
+  padding: 15px;
+  color: #444;
+  border-top: 1px solid #d2d6de;
+  display: flex;
+  justify-content: space-between;
+}
